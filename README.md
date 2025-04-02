@@ -22,3 +22,7 @@ This repository contains the HTML code for the "About" page of the **Portify** w
 - **CSS**: Styles defined primarily using Bootstrap and some custom styles.
 - **JavaScript**: Interactive elements powered by Bootstrap and custom scripts for animations and statistics counters.
 - **Fonts**: Google Fonts used for typography.
+
+## Installation
+
+To use this code, simply clone or download the repository and open the `about.html` file in your web browser. You will need to ensure that the associated assets (images, CSS, JS files) are referenced correctly.
