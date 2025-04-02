@@ -14,3 +14,11 @@ This repository contains the HTML code for the "About" page of the **Portify** w
   - **Skills Section**: Showcases the technical skills with progress bars indicating proficiency levels.
   - **Features Section**: Lists the interests and features relevant to the individual’s work.
   - **Testimonials Section**: Displays feedback from clients or colleagues to establish credibility and showcase work quality.
+
+
+ ## Technologies Used
+
+- **HTML**: The structure of the webpage.
+- **CSS**: Styles defined primarily using Bootstrap and some custom styles.
+- **JavaScript**: Interactive elements powered by Bootstrap and custom scripts for animations and statistics counters.
+- **Fonts**: Google Fonts used for typography.
