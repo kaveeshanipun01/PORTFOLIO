@@ -25,4 +25,4 @@ This repository contains the HTML code for the "About" page of the **Portify** w
 
 ## Installation
 
-To use this code, simply clone or download the repository and open the `about.html` file in your web browser. You will need to ensure that the associated assets (images, CSS, JS files) are referenced correctly.
+To use this code, simply clone or download the repository and open the `about.html` file in your web browser. 
